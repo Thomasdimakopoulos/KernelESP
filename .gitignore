@@ -28,6 +28,6 @@ diagnostics/
 *.bak
 
 # Local secrets or machine-specific settings
-.env
-.env.*
 local.*
+config.bat
+node_modules
