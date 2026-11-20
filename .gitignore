@@ -29,5 +29,7 @@ diagnostics/
 
 # Local secrets or machine-specific settings
 local.*
-config.bat
 node_modules
+
+.env
+.env.*
